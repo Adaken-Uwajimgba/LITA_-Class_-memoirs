@@ -51,3 +51,8 @@ The primary source of Data used here is sale.csv and this is an open source of D
 
    
 ![pie chart sales](https://github.com/user-attachments/assets/03cffe2c-370c-416d-a593-34b44a653747)
+
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
