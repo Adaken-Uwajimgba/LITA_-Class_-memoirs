@@ -1,3 +1,4 @@
+
 # LITA_-Class_-memoirs
 
 ## PROJECT TITLE: E-Commerce Sales Analysis
@@ -16,3 +17,20 @@ The primary source of Data used here is sale.csv and this is an open source of D
 
 - SQL - Structured Query Language for Quering of Data
 - GitHub for Portolio Building
+
+  ### Data Cleaning and Preparations
+  In the initial Phase of the Data Cleaning and Preparations, we perform the following action;
+  1. Data Claeaning
+  2. Handling missing Variable
+  3. Data Cleaning and Formatting
+
+  ### Exploratory Data Analysis
+  EDA involved the exploring of the Data to answer some questions about the Data such as;
+  - What is the Overall Sales Trend?
+  - Which product are Top Sellers?
+  - What are the products on Peak sales?
+  
+  
+  
+  
+  - 
