@@ -43,6 +43,7 @@ The primary source of Data used here is sale.csv and this is an open source of D
   SELECT * FROM TABLE
   WHERE CONDITION = TRUE
   ~~~
+  **CALENDAR**
   
   
    
