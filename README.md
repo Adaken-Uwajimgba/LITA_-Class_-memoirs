@@ -9,6 +9,10 @@ Welcome to Data Analysis..
 The primary source of Data used here is sale.csv and this is an open source of Data
 
 ### Tools used
-Microsoft Excel for Data cleaning, Analysis and Visualization
-SQL - Structured Query Language for Quering of Data
-GitHub for Portolio Building
+- Microsoft Excel 
+  1. Data Cleaning
+  2. Data Analysis
+  3. Data Visualization
+
+- SQL - Structured Query Language for Quering of Data
+- GitHub for Portolio Building
