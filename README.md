@@ -30,7 +30,13 @@ The primary source of Data used here is sale.csv and this is an open source of D
   - Which product are Top Sellers?
   - What are the products on Peak sales?
   
+  ### Data Analysis
+  This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+
+  ~~~SQL
+  SELECT * FROM TABLE
+  WHERE CONDITION = TRUE
+  ~~~
   
   
-  
-  - 
+   
