@@ -8,6 +8,10 @@
 
 [Data Analysis](#data-analysis)
 
+[Tools used](#tools-used)
+
+[Data Visualization](#data-visualization)
+
 Welcome to Data Analysis..
 
 ### Data Sources
