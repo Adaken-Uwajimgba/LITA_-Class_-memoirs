@@ -1,4 +1,3 @@
-
 # LITA_-Class_-memoirs
 
 ## PROJECT TITLE: E-Commerce Sales Analysis
@@ -44,8 +43,11 @@ The primary source of Data used here is sale.csv and this is an open source of D
   WHERE CONDITION = TRUE
   ~~~
   **CALENDAR**
-  *ITALICS*
+  *ITALICS*!
+
   
   ### Data Visualization
-  
+  ![Bar Chart](https://github.com/user-attachments/assets/602ec060-d8fe-46ed-b930-49d3a93c6a2e)
+
    
+![pie chart sales](https://github.com/user-attachments/assets/03cffe2c-370c-416d-a593-34b44a653747)
